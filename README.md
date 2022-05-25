@@ -3,4 +3,4 @@ This small Python script utilises Multiprocessing. You can use it to scan your h
 
 Use the command line to execute it:
 Syntax: 
-python PortScanner [ YOUR-IP | e.g.192.168.29.1 ] [ START-PORT | 1 ] [ END-PORT | 65535 ]
+python PortScanner.py [ YOUR-IP | e.g.192.168.29.1 ] [ START-PORT | 1 ] [ END-PORT | 65535 ]
